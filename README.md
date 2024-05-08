@@ -7,6 +7,13 @@ Above are the web I first encounter when I run `npm start`.
 
 ![](/images/test.png)
 Above are the interface where I can chat with one or more person (the person here is myself, but in another tab).
+
+## 3.2 Be Creative
+![](/images/front_new.png)
+Above are the new interface of the web that I just updated. I changed the button color into green.
+
+![](/images/test_new.png)
+Above are the new interface of the web that I just updated. I changed the theme color into gray.
 </details>
 
 <details>
